@@ -10,6 +10,8 @@ Uploading and downloading files from dropbox
  
 	Рис.1.1 – Структурная схема утилиты.
 
+Готовые к запуску программы лежат в папке Сompiled Program. Инструкция по их использованию приведена ниже.
+В папках DbxLoader и consoleVerDbxLoader находится исходный код.
 
 2.1.	Консольная версия утилиты.
 
