@@ -15,7 +15,7 @@ Uploading and downloading files from dropbox
 
 2.1.	Консольная версия утилиты.
 
-Консольная версия утилиты состоит из файла consoleVerDbxLoader.jar и файла start.bat. Для запуска программы требуется прописать в bat файле путь к файлу consoleVerDbxIn4Tech.jar. Запуск утилиты осуществляется запуском файла start.bat.
+Консольная версия утилиты состоит из файла consoleVerDbxLoader.jar и файла start.bat. Для запуска программы требуется прописать в bat файле путь к файлу consoleVerDbxLoader.jar. Запуск утилиты осуществляется запуском файла start.bat.
 
 ![image](https://user-images.githubusercontent.com/77270310/160058926-185be6b2-a932-4292-9eb4-49f391b88c29.png)
 
